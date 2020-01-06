@@ -1,2 +1,2 @@
 # gjp-flutter
-Gan Jianping Flutter
+Gan Jianping Flutter Sample
